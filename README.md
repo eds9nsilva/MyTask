@@ -19,3 +19,21 @@ O objetivo final do App é bem simples, realizar um lista de tarefas.
 - `TypeScript`
 - `Jest`
 - `Async-storage`
+
+
+### Clonar o repositório e instalar as dependências
+```
+$ git clone https://github.com/eds9nsilva/MyTask.git
+```
+```
+cd MyTask
+```
+##### Instalando as depedências
+```
+yarn ou npm install
+```
+
+> Executando. Você precisa do emulador instalado ou celular conectado via USB em modo desenvolverdor. :warning:
+```
+yarn start
+```
