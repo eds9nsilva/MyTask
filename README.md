@@ -6,6 +6,10 @@ O objetivo final do App é bem simples, realizar um lista de tarefas.
 <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-green?style=for-the-badge"/>
 </p>
 
+<p align="center">
+    <img width = "300" height= "600" src = "animation.gif">
+</p>
+
 ## :hammer: Funcionalidades do App
 
 - `Funcionalidade 1`: Cadastrar tarefas
