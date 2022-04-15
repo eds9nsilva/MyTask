@@ -19,8 +19,7 @@ O objetivo final do App é bem simples, realizar um lista de tarefas.
 - `TypeScript`
 - `Jest`
 - `Async-storage`
-
-
+---
 ### Clonar o repositório e instalar as dependências
 ```
 $ git clone https://github.com/eds9nsilva/MyTask.git
@@ -37,3 +36,5 @@ yarn ou npm install
 ```
 yarn start
 ```
+---
+Made with ☕ by Edson da Silva
